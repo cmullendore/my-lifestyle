@@ -20,7 +20,7 @@
 on:
   push:
     branches:
-      - develop
+      - play/dynamic-loading
   workflow_dispatch:
 
 env:
